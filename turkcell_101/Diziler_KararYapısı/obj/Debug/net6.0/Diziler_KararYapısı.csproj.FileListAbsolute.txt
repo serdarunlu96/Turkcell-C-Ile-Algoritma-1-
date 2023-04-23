@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\bin\Debug\net6.0\Diziler_KararYapısı.exe
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\bin\Debug\net6.0\Diziler_KararYapısı.deps.json
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\bin\Debug\net6.0\Diziler_KararYapısı.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\bin\Debug\net6.0\Diziler_KararYapısı.dll
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\bin\Debug\net6.0\Diziler_KararYapısı.pdb
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.dll
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\refint\Diziler_KararYapısı.dll
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.pdb
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\Diziler_KararYapısı.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Diziler_KararYapısı\obj\Debug\net6.0\ref\Diziler_KararYapısı.dll

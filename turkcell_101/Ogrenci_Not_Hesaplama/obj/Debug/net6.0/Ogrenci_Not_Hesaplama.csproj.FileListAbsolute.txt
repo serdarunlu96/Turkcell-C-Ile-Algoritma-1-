@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\bin\Debug\net6.0\Ogrenci_Not_Hesaplama.exe
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\bin\Debug\net6.0\Ogrenci_Not_Hesaplama.deps.json
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\bin\Debug\net6.0\Ogrenci_Not_Hesaplama.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\bin\Debug\net6.0\Ogrenci_Not_Hesaplama.dll
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\bin\Debug\net6.0\Ogrenci_Not_Hesaplama.pdb
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.dll
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\refint\Ogrenci_Not_Hesaplama.dll
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.pdb
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\Ogrenci_Not_Hesaplama.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Ogrenci_Not_Hesaplama\obj\Debug\net6.0\ref\Ogrenci_Not_Hesaplama.dll

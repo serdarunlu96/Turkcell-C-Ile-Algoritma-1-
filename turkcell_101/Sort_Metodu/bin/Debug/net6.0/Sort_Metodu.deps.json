@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sort_Metodu/1.0.0": {
+        "runtime": {
+          "Sort_Metodu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sort_Metodu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

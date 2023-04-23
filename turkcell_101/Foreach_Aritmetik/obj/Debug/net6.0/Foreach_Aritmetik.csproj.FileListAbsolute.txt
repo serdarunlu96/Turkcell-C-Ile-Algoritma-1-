@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\bin\Debug\net6.0\Foreach_Aritmetik.exe
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\bin\Debug\net6.0\Foreach_Aritmetik.deps.json
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\bin\Debug\net6.0\Foreach_Aritmetik.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\bin\Debug\net6.0\Foreach_Aritmetik.dll
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\bin\Debug\net6.0\Foreach_Aritmetik.pdb
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.dll
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\refint\Foreach_Aritmetik.dll
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.pdb
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\Foreach_Aritmetik.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Foreach_Aritmetik\obj\Debug\net6.0\ref\Foreach_Aritmetik.dll

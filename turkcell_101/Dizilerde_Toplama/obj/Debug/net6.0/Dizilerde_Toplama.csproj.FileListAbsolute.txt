@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\bin\Debug\net6.0\Dizilerde_Toplama.exe
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\bin\Debug\net6.0\Dizilerde_Toplama.deps.json
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\bin\Debug\net6.0\Dizilerde_Toplama.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\bin\Debug\net6.0\Dizilerde_Toplama.dll
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\bin\Debug\net6.0\Dizilerde_Toplama.pdb
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.dll
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\refint\Dizilerde_Toplama.dll
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.pdb
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\Dizilerde_Toplama.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Dizilerde_Toplama\obj\Debug\net6.0\ref\Dizilerde_Toplama.dll

@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\bin\Debug\net6.0\Float_Degiskenler.exe
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\bin\Debug\net6.0\Float_Degiskenler.deps.json
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\bin\Debug\net6.0\Float_Degiskenler.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\bin\Debug\net6.0\Float_Degiskenler.dll
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\bin\Debug\net6.0\Float_Degiskenler.pdb
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.dll
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\refint\Float_Degiskenler.dll
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.pdb
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\Float_Degiskenler.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Float_Degiskenler\obj\Debug\net6.0\ref\Float_Degiskenler.dll

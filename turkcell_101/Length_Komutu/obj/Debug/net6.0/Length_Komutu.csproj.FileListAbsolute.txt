@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\bin\Debug\net6.0\Length_Komutu.exe
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\bin\Debug\net6.0\Length_Komutu.deps.json
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\bin\Debug\net6.0\Length_Komutu.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\bin\Debug\net6.0\Length_Komutu.dll
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\bin\Debug\net6.0\Length_Komutu.pdb
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.dll
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\refint\Length_Komutu.dll
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.pdb
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\Length_Komutu.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Length_Komutu\obj\Debug\net6.0\ref\Length_Komutu.dll

@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\bin\Debug\net6.0\While_Dongusu.exe
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\bin\Debug\net6.0\While_Dongusu.deps.json
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\bin\Debug\net6.0\While_Dongusu.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\bin\Debug\net6.0\While_Dongusu.dll
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\bin\Debug\net6.0\While_Dongusu.pdb
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.dll
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\refint\While_Dongusu.dll
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.pdb
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\While_Dongusu.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\While_Dongusu\obj\Debug\net6.0\ref\While_Dongusu.dll

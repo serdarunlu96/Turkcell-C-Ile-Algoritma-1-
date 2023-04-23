@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\bin\Debug\net6.0\Dıkdortgen_Hesaplama.exe
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\bin\Debug\net6.0\Dıkdortgen_Hesaplama.deps.json
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\bin\Debug\net6.0\Dıkdortgen_Hesaplama.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\bin\Debug\net6.0\Dıkdortgen_Hesaplama.dll
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\bin\Debug\net6.0\Dıkdortgen_Hesaplama.pdb
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.dll
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\refint\Dıkdortgen_Hesaplama.dll
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.pdb
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\Dıkdortgen_Hesaplama.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Dıkdortgen_Hesaplama\obj\Debug\net6.0\ref\Dıkdortgen_Hesaplama.dll

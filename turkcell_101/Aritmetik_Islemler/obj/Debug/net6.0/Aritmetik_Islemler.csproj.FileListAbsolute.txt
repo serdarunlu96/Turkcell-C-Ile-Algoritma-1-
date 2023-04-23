@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\bin\Debug\net6.0\Aritmetik_Islemler.exe
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\bin\Debug\net6.0\Aritmetik_Islemler.deps.json
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\bin\Debug\net6.0\Aritmetik_Islemler.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\bin\Debug\net6.0\Aritmetik_Islemler.dll
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\bin\Debug\net6.0\Aritmetik_Islemler.pdb
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.dll
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\refint\Aritmetik_Islemler.dll
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.pdb
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\Aritmetik_Islemler.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Aritmetik_Islemler\obj\Debug\net6.0\ref\Aritmetik_Islemler.dll

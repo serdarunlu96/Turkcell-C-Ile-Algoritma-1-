@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\bin\Debug\net6.0\Bool_ Degiskenler.exe
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\bin\Debug\net6.0\Bool_ Degiskenler.deps.json
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\bin\Debug\net6.0\Bool_ Degiskenler.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\bin\Debug\net6.0\Bool_ Degiskenler.dll
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\bin\Debug\net6.0\Bool_ Degiskenler.pdb
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.dll
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\refint\Bool_ Degiskenler.dll
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.pdb
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\Bool_ Degiskenler.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Bool_ Degiskenler\obj\Debug\net6.0\ref\Bool_ Degiskenler.dll

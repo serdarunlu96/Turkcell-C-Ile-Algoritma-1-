@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\bin\Debug\net6.0\Klavye_VeriAl.exe
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\bin\Debug\net6.0\Klavye_VeriAl.deps.json
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\bin\Debug\net6.0\Klavye_VeriAl.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\bin\Debug\net6.0\Klavye_VeriAl.dll
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\bin\Debug\net6.0\Klavye_VeriAl.pdb
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.dll
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\refint\Klavye_VeriAl.dll
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.pdb
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\Klavye_VeriAl.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Klavye_VeriAl\obj\Debug\net6.0\ref\Klavye_VeriAl.dll

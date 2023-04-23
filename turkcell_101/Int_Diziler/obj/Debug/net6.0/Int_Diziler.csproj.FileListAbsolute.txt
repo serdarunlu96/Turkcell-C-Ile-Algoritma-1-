@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\bin\Debug\net6.0\Int_Diziler.exe
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\bin\Debug\net6.0\Int_Diziler.deps.json
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\bin\Debug\net6.0\Int_Diziler.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\bin\Debug\net6.0\Int_Diziler.dll
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\bin\Debug\net6.0\Int_Diziler.pdb
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.dll
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\refint\Int_Diziler.dll
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.pdb
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\Int_Diziler.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Int_Diziler\obj\Debug\net6.0\ref\Int_Diziler.dll

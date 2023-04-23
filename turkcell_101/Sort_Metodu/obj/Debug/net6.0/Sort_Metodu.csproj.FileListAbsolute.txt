@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\bin\Debug\net6.0\Sort_Metodu.exe
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\bin\Debug\net6.0\Sort_Metodu.deps.json
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\bin\Debug\net6.0\Sort_Metodu.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\bin\Debug\net6.0\Sort_Metodu.dll
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\bin\Debug\net6.0\Sort_Metodu.pdb
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.dll
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\refint\Sort_Metodu.dll
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.pdb
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\Sort_Metodu.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Sort_Metodu\obj\Debug\net6.0\ref\Sort_Metodu.dll

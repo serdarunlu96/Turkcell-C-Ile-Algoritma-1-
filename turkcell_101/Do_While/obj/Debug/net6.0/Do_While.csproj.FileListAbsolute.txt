@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Do_While\bin\Debug\net6.0\Do_While.exe
+C:\Users\serda\source\repos\turkcell_101\Do_While\bin\Debug\net6.0\Do_While.deps.json
+C:\Users\serda\source\repos\turkcell_101\Do_While\bin\Debug\net6.0\Do_While.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Do_While\bin\Debug\net6.0\Do_While.dll
+C:\Users\serda\source\repos\turkcell_101\Do_While\bin\Debug\net6.0\Do_While.pdb
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.dll
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\refint\Do_While.dll
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.pdb
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\Do_While.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Do_While\obj\Debug\net6.0\ref\Do_While.dll

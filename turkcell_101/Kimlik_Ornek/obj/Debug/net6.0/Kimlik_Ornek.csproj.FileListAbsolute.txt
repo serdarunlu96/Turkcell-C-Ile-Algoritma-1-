@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\bin\Debug\net6.0\Kimlik_Ornek.exe
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\bin\Debug\net6.0\Kimlik_Ornek.deps.json
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\bin\Debug\net6.0\Kimlik_Ornek.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\bin\Debug\net6.0\Kimlik_Ornek.dll
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\bin\Debug\net6.0\Kimlik_Ornek.pdb
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.dll
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\refint\Kimlik_Ornek.dll
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.pdb
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\Kimlik_Ornek.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Kimlik_Ornek\obj\Debug\net6.0\ref\Kimlik_Ornek.dll

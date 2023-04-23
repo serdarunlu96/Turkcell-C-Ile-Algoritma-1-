@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\bin\Debug\net6.0\IndexOf_Metodu.exe
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\bin\Debug\net6.0\IndexOf_Metodu.deps.json
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\bin\Debug\net6.0\IndexOf_Metodu.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\bin\Debug\net6.0\IndexOf_Metodu.dll
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\bin\Debug\net6.0\IndexOf_Metodu.pdb
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.dll
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\refint\IndexOf_Metodu.dll
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.pdb
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\IndexOf_Metodu.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\IndexOf_Metodu\obj\Debug\net6.0\ref\IndexOf_Metodu.dll

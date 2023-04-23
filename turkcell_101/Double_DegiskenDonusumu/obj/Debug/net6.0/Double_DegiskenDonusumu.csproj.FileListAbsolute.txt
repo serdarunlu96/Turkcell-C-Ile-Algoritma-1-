@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\bin\Debug\net6.0\Double_DegiskenDonusumu.exe
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\bin\Debug\net6.0\Double_DegiskenDonusumu.deps.json
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\bin\Debug\net6.0\Double_DegiskenDonusumu.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\bin\Debug\net6.0\Double_DegiskenDonusumu.dll
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\bin\Debug\net6.0\Double_DegiskenDonusumu.pdb
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.dll
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\refint\Double_DegiskenDonusumu.dll
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.pdb
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\Double_DegiskenDonusumu.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Double_DegiskenDonusumu\obj\Debug\net6.0\ref\Double_DegiskenDonusumu.dll

@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\bin\Debug\net6.0\merhaba_Dunya.exe
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\bin\Debug\net6.0\merhaba_Dunya.deps.json
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\bin\Debug\net6.0\merhaba_Dunya.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\bin\Debug\net6.0\merhaba_Dunya.dll
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\bin\Debug\net6.0\merhaba_Dunya.pdb
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.dll
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\refint\merhaba_Dunya.dll
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.pdb
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\merhaba_Dunya.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\merhaba_Dunya\obj\Debug\net6.0\ref\merhaba_Dunya.dll

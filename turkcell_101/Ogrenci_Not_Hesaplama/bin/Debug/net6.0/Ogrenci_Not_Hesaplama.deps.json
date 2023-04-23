@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ogrenci_Not_Hesaplama/1.0.0": {
+        "runtime": {
+          "Ogrenci_Not_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ogrenci_Not_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\bin\Debug\net6.0\Dizi_DegerGirisi.exe
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\bin\Debug\net6.0\Dizi_DegerGirisi.deps.json
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\bin\Debug\net6.0\Dizi_DegerGirisi.runtimeconfig.json
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\bin\Debug\net6.0\Dizi_DegerGirisi.dll
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\bin\Debug\net6.0\Dizi_DegerGirisi.pdb
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.AssemblyInfo.cs
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.dll
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\refint\Dizi_DegerGirisi.dll
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.pdb
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\Dizi_DegerGirisi.genruntimeconfig.cache
+C:\Users\serda\source\repos\turkcell_101\Dizi_DegerGirisi\obj\Debug\net6.0\ref\Dizi_DegerGirisi.dll
